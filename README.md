@@ -8,8 +8,8 @@ This repo contains:
 
 To run the code as it is:
 ```shell
-$ sbt # tested on 1.9.0
-sbt> run
+$ cp ./extra.tsv /tmp/
+$ sbt run # tested on 1.9.0
 ```
 This should produce:
 
